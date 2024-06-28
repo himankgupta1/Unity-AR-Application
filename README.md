@@ -58,8 +58,8 @@ git clone https://github.com/yourusername/Unity-AR-App.git
 ## Contributing
 Feel free to fork this repository and make improvements. Pull requests are welcome!
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact
+## Contact
 For questions, issues, or suggestions, please contact himankguptaa@gmail.com.
